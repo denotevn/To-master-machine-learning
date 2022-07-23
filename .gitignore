@@ -1,3 +1,4 @@
 tuanenv/
 .vscode/
 .ipynb_checkpoints
+my_model.pkl
